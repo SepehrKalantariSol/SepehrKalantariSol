@@ -1,8 +1,8 @@
 # Hi, I'm Sepehr Kalantari Soltanieh
 
-Software Engineer focused on real-time systems, computer vision, and backend development.
+Software Engineer building real-time systems, computer vision pipelines, and backend applications.
 
-I design and build scalable software systems with a strong emphasis on performance, architecture, and practical deployment.
+Focused on scalable architecture, performance, and practical deployment.
 
 ---
 
