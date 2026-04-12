@@ -26,6 +26,9 @@ Full-stack application (Flask, PostgreSQL, JavaScript) for asset tracking and IT
 ### PharmaED
 AI-powered medication scanning MVP integrating image processing, backend services, and text-to-speech.
 
+### Robot Vision Targeting System
+Real-time computer vision pipeline for autonomous robotics using Raspberry Pi and ESP32.
+
 ---
 
 ## Technical Skills
