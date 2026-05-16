@@ -26,6 +26,9 @@ I focus on designing systems that process and analyse live data, improve perform
 
 ## 🚀 Featured Projects
 
+### Warehouse Operations Analytics & Optimisation
+End-to-end analytics system simulating 18 months of warehouse data (5,000 orders). Includes SQL-driven KPI engine, bottleneck detection, RandomForest delay prediction (ROC-AUC: 0.876), automated business recommendations, and a 4-page interactive Streamlit dashboard.
+
 ### Real-Time Multi-Camera Vehicle Tracking System
 Designed a modular real-time tracking pipeline using detection, multi-view fusion, and custom ID persistence logic to improve tracking accuracy and system performance.
 
@@ -44,7 +47,7 @@ Implemented a real-time computer vision pipeline for autonomous robotics using R
 
 **Languages:** Python, Java, C/C++  
 **Backend & Data:** PostgreSQL, SQL, REST APIs  
-**Libraries & Tools:** OpenCV, real-time processing  
+**Libraries & Tools:** OpenCV, Scikit-learn, Pandas, Streamlit, Plotly  
 **Web:** HTML, CSS, JavaScript  
 **Other:** Git, Linux  
 
@@ -60,4 +63,4 @@ Implemented a real-time computer vision pipeline for autonomous robotics using R
 
 ## 📫 Connect
 
-LinkedIn: https://www.linkedin.com/in/sepehr-kalantari-soltanieh/
+[LinkedIn](https://www.linkedin.com/in/sepehr-kalantari-soltanieh/)
