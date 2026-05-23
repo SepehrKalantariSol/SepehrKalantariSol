@@ -63,4 +63,4 @@ Implemented a real-time computer vision pipeline for autonomous robotics using R
 
 ## 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/sepehr-kalantari-soltanieh/)
+[Portfolio](https://sepehrkln.com) · [LinkedIn](https://www.linkedin.com/in/sepehr-kalantari-soltanieh/)
